@@ -1,5 +1,4 @@
 # Eco-Sphere
-# EchoSphere
 
 ## Inspiration  
 EchoSphere was inspired by the growing gap between reality and public perception. While humanity has made incredible progress in areas like climate action, poverty reduction, and global health, these positive developments are often buried beneath negative headlines. Drawing from my experiences in past projects like **Whatthefilm** and **AetherAI**, I wanted to create a platform that combats misinformation by highlighting real-world progress in an engaging and interactive way.  
